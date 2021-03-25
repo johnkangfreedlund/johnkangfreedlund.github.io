@@ -1,3 +1,7 @@
 _/ _site/
 _/ favicon.ico
 _/ .jekyll-cache
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
